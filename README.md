@@ -1,4 +1,4 @@
-AWS builder. Sr. Technical Account Manager @AWS. Passionate about Serverless Tehcnology.
+AWS builder. Principal Cloud Operations Architect @AWS. Passionate about Serverless Technology.
 
 <!---
 aboushad/aboushad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
